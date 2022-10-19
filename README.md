@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm fabestah (he/him)</h1>
+<h1 align="center">Hi <img src="https://github.com/fabestah/fabestah/blob/main/Hi.gif?raw=true" alt="👋" width="35px"/>, I'm fabestah (he/him)</h1>
 <h3 align="center">An austrian/german dude, who fell in love with Python and coding in general and highly values privacy plus anonymity on the internet.</h3>
 
 - 🌱 I’m currently learning **Selenium (Web Automation)**
