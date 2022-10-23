@@ -1,6 +1,7 @@
+[![@fabestah's Holopin board](https://holopin.io/api/user/board?user=fabestah)](https://holopin.io/@fabestah)
+---
 <h1 align="center">Hi <img src="https://github.com/fabestah/fabestah/blob/main/Hi.gif?raw=true" alt="👋" width="35px"/>, I'm fabestah (he/him)</h1>
 <h3 align="center">An austrian/german dude, who fell in love with Python and coding in general.</h3>
-[![@fabestah's Holopin board](https://holopin.io/api/user/board?user=fabestah)](https://holopin.io/@fabestah)
 
 - 🌱 I’m currently learning **Selenium (Web Automation)**
 
